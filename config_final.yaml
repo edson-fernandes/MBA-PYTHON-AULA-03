@@ -1,0 +1,6 @@
+type_save: json, csv, yaml
+filter_title:      
+filter_year:
+csv_dest: G:\Meu Drive\MBA - Data Engeneering\Python for Data Engineer\Trabalho-part2\Projeto 2\Export\export_final.csv
+json_dest: G:\Meu Drive\MBA - Data Engeneering\Python for Data Engineer\Trabalho-part2\Projeto 2\Export\export_final.json
+yaml_dest: G:\Meu Drive\MBA - Data Engeneering\Python for Data Engineer\Trabalho-part2\Projeto 2\Export\export_final.yaml
